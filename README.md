@@ -33,9 +33,3 @@ I'm Nolan Xu, a student at NYU 29' majoring in Data Science.
 - 📫 The best way to reach me is by [email](mailto:Alexander_123Wiggins@proton.me).
 
 
-<img alt="summary-card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeoYWang&theme=tokyonight" style="width:80%"/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoYWang&layout=donut&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=GeoYWang)
