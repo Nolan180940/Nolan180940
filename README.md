@@ -9,7 +9,7 @@
 
 I'm Nolan Xu, a student at NYU 29' majoring in Data Science. 
 - I'm familiar with Python, C++, JavaScript, HTML, LaTex, Markdown. (Yeap, really familiar with markdown+ LaTex, taking really notes in this way.)
-- I'm an amateur Quant Trading stategy researcher & analyst (purely out of curiosity & and indeed made something, but anyway don't expect too much on me Lmao), you can see the progress as following: (Not open-sourced on Github)
+- I'm an amateur Quant Trading stategy researcher & analyst (purely out of curiosity & and indeed made something, but anyway don't expect too much on me Lmao), you can see the progress as following: (Not open-sourced on Github, due to compliance issue)
   * Mainstream Trading Styles research
   * Quant Trading Strategy mainly focusing on Micro-cap stocks
   * Hedging strategy respectively for IF and IH
