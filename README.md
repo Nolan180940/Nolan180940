@@ -14,6 +14,7 @@ I'm Nolan Xu, a student at NYU 29' majoring in Data Science.
   * Quant Trading Strategy mainly focusing on Micro-cap stocks
   * Hedging strategy respectively for IF and IH
   * Micro-cap stock earthquake (2024/01/15-2024/02/07) research
+- I show strong interst in business and finance, which facilitates me to join TAMID Group (Asia Chapter, NYU Shanghai), mainly focusing on equity analysis and stock valuation. **Data Science + AI + Finance** is currently what I aspire to take for my career path!
 - I'm a technology devotee with passion for data processing, innovating what on earth can be done with the help of LLM, practical computer science skills (like Git: git push --force haha..)
   * I once downloaded full A-stock data from akshare and established super SQL table and database with data-cleaning mechanism and timely update.
   * I innovated and initiated lots of interesting github repositories as follows:
@@ -24,6 +25,7 @@ I'm Nolan Xu, a student at NYU 29' majoring in Data Science.
     * [cloud_drive](https://github.com/Nolan180940/my-cloud), based on github itself as a backend
   * I forked some from other's repository: (and here express my best gratitude)
     * [chatbot](https://github.com/Nolan180940/llm-examples)
+  * I'm one of the DIC finalist (Digital Innovation Challenge, NYU Shanghai)
   > Basically, as for those technique experts, you might regard all of them above as really stupid, however, it's a really audacious try from a freshman student. (Please give me some applause and encouragement!)
 - I hold firm belief that future will belong to the industry with multidisciplinary traits. AI+ is what I'm commited to. (but don't say I'm a vibe coding wacko...)
 - I'd love to devote to a field for an infinite time cause you have to get ready for this and expect for nothing, but anyway as long as you don't feel regretted, that's the best and the wisest choice. I belief life is an endless journey where you're guided with infinite exploration.
