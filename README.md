@@ -1,37 +1,105 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
 
+# Hi there, I'm Nolan Xu 👋
 
-
-[🇬🇧English](./README.md)   |  [🇨🇳中文](./README.zh.md)
-
+[🇬🇧 English](./README.md) &nbsp;|&nbsp; [🇨🇳 中文](./README.zh.md)
 
 ---
 
-I'm Nolan Xu, a student at NYU 29' majoring in Data Science. 
-- I'm familiar with Python, C++, JavaScript, HTML, LaTex, Markdown. (Yeap, really familiar with markdown+ LaTex, taking really notes in this way.)
-- I'm an amateur Quant Trading stategy researcher & analyst (purely out of curiosity & and indeed made something, but anyway don't expect too much on me Lmao), you can see the progress as following: (Not open-sourced on Github, due to compliance issue)
-  * Mainstream Trading Styles research
-  * Quant Trading Strategy mainly focusing on Micro-cap stocks
-  * Hedging strategy respectively for IF and IH
-  * Micro-cap stock earthquake (2024/01/15-2024/02/07) research
-- I show strong interst in business and finance, which facilitates me to join TAMID Group (Asia Chapter, NYU Shanghai), mainly focusing on equity analysis and stock valuation. **Data Science + AI + Finance** is currently what I aspire to take for my career path!
-- I'm a technology devotee with passion for data processing, innovating what on earth can be done with the help of LLM, practical computer science skills (like Git: git push --force haha..)
-  * I once downloaded full A-stock data from akshare and established super SQL table and database with data-cleaning mechanism and timely update.
-  * I innovated and initiated lots of interesting github repositories as follows:
-    * [personal_homepage](https://github.com/Nolan180940/Nolan180940.github.io), It's delicately made, Please visit if possible.
-    * [markdown-to-docx_converter](https://github.com/Nolan180940/md-to-word), see README.md in that repository. (thank you streamlit.io)
-    * [blog](https://github.com/Nolan180940/blog), a completed full-stack development process demonstrated, using Gemini 3 pro for front end (poorly designed) and Supabase for cloud database as a backend
-    * [convenient_online_notebook](https://github.com/Nolan180940/Notebook), ready for immediate use, and support exporting to any format.
-    * [cloud_drive](https://github.com/Nolan180940/my-cloud), based on github itself as a backend
-  * I forked some from other's repository: (and here express my best gratitude)
-    * [chatbot](https://github.com/Nolan180940/llm-examples)
-  * I'm one of the DIC finalist (Digital Innovation Challenge, NYU Shanghai)
-  > Basically, as for those technique experts, you might regard all of them above as really stupid, however, it's a really audacious try from a freshman student. (Please give me some applause and encouragement!)
-- I hold firm belief that future will belong to the industry with multidisciplinary traits. AI+ is what I'm commited to. (but don't say I'm a vibe coding wacko...)
-- I'd love to devote to a field for an infinite time cause you have to get ready for this and expect for nothing, but anyway as long as you don't feel regretted, that's the best and the wisest choice. I belief life is an endless journey where you're guided with infinite exploration.
+### 🎓 NYU '29 | Data Science Major
 
+</div>
 
+---
 
-- 📫 The best way to reach me is by [email](mailto:Alexander_123Wiggins@proton.me).
+## 👨‍💻 About Me
 
+I'm a **Data Science student at New York University (Class of 2029)**, passionate about the intersection of **AI + Finance + Technology**.
 
+---
+
+## 🛠️ Technical Skills
+
+```
+🐍 Python    ⚡ C++    🌐 JavaScript    📄 HTML    📝 LaTeX    ✨ Markdown
+```
+
+> 💡 *Yes, really familiar with Markdown & LaTeX — I take all my notes this way!*
+
+---
+
+## 📈 Quant Trading Research
+
+*Amateur Quant Trading Strategy Researcher & Analyst*  
+*(Purely out of curiosity — don't expect too much! 😄)*
+
+- 🔹 **Mainstream Trading Styles** research
+- 🔹 **Quant Trading Strategy** focusing on Micro-cap stocks
+- 🔹 **Hedging Strategy** for IF and IH futures
+- 🔹 **Micro-cap Stock Earthquake** research (2024/01/15 - 2024/02/07)
+
+> ⚠️ *Not open-sourced on GitHub due to compliance issues*
+
+---
+
+## 💼 Business & Finance Experience
+
+Currently involved in **TAMID Group (Asia Chapter, NYU Shanghai)**, focusing on:
+- 📊 Equity Analysis
+- 💰 Stock Valuation
+
+**Career Aspiration:** `Data Science` + `AI` + `Finance` 🚀
+
+---
+
+## 🚀 Projects & Innovations
+
+### 🏆 Personal Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏠 [**Personal Homepage**](https://github.com/Nolan180940/Nolan180940.github.io) | Delicately crafted portfolio website |
+| 📄 [**Markdown to DOCX Converter**](https://github.com/Nolan180940/md-to-word) | Streamlit-powered document converter |
+| 📝 [**Blog**](https://github.com/Nolan180940/blog) | Full-stack development with Gemini AI + Supabase |
+| 📓 [**Online Notebook**](https://github.com/Nolan180940/Notebook) | Ready-to-use notebook with multi-format export |
+| ☁️ [**Cloud Drive**](https://github.com/Nolan180940/my-cloud) | GitHub-backed cloud storage solution |
+
+### 🤝 Forked Projects
+
+- 🤖 [**Chatbot**](https://github.com/Nolan180940/llm-examples) - LLM-powered chatbot *(Gratitude to original creators!)*
+
+### 🏅 Achievements
+
+- 🏆 **DIC Finalist** (Digital Innovation Challenge, NYU Shanghai)
+- 💾 Built comprehensive A-stock database with data-cleaning mechanism from akshare
+
+> 🌟 *As a freshman, these might seem simple to experts, but they represent bold attempts and genuine learning!*
+
+---
+
+## 💭 Philosophy
+
+> *"The future belongs to industries with multidisciplinary traits. **AI+** is what I'm committed to."*
+
+> *"Life is an endless journey guided by infinite exploration. Devote yourself without regret — that's the wisest choice."*
+
+---
+
+## 📬 Contact
+
+<p align="center">
+
+[![Email](https://img.shields.io/badge/Email-Alexander_123Wiggins@proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Alexander_123Wiggins@proton.me)
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🌟
+
+*Feel free to reach out — let's connect and collaborate!*
+
+</div>

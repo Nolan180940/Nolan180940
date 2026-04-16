@@ -1,45 +1,105 @@
-你好 👋
+<!-- Banner -->
+<div align="center">
+
+# 你好，我是 Nolan Xu 👋
+
+[🇬🇧 English](./README.md) &nbsp;|&nbsp; [🇨🇳 中文](./README.zh.md)
 
 ---
 
-我是 Nolan Xu，纽约大学 29 届数据科学专业学生。
+### 🎓 纽约大学 '29 届 | 数据科学专业
 
-- 我熟悉 Python、C++、JavaScript、HTML、LaTeX 和 Markdown。 （是的，我对 Markdown 和 LaTeX 非常熟悉，经常用这种方式做笔记。）
+</div>
 
-- 我是一名业余的量化交易策略研究员和分析师（纯粹出于好奇，也确实做了一些东西，但别对我抱太大期望，哈哈），你可以看看我目前的进展：（未在 GitHub 上开源）
+---
 
-  * 主流交易风格研究
+## 👨‍💻 关于我
 
-  * 主要关注微型股的量化交易策略
+我是**纽约大学数据科学专业学生（2029 届）**，热衷于 **AI + 金融 + 技术**的交叉领域。
 
-  * 分别针对 IF 和 IH 的对冲策略
+---
 
-  * 微型股震荡（2024/01/15-2024/02/07）研究
+## 🛠️ 技术技能
 
-- 我是一位技术爱好者，对数据处理充满热情，并致力于利用法学硕士学位和实用的计算机科学技能（比如 Git：git push --force 哈哈……）来探索各种可能性。
+```
+🐍 Python    ⚡ C++    🌐 JavaScript    📄 HTML    📝 LaTeX    ✨ Markdown
+```
 
-  * 我曾经从 akshare 下载了完整的 A 股数据，并建立了一个带有数据清洗机制和及时更新功能的超级 SQL 表和数据库。
+> 💡 *是的，我对 Markdown 和 LaTeX 非常熟悉——我所有笔记都用这种方式记录！*
 
-  * 我创新性地创建并运行了许多有趣的 GitHub 代码库，如下所示：
+---
 
-    * [personal_homepage](https://github.com/Nolan180940/Nolan180940.github.io)，精心制作，欢迎访问。
+## 📈 量化交易研究
 
-    * [markdown-to-docx_converter](https://github.com/Nolan180940/md-to-word)，请参阅该代码库中的 README.md 文件。（感谢 streamlit.io）
+*业余量化交易策略研究员 & 分析师*  
+*(纯粹出于好奇——别对我抱太大期望！😄)*
 
-    * [blog](https://github.com/Nolan180940/blog)，展示了一个完整的全栈开发流程，前端使用 Gemini 3 Pro（设计欠佳），后端使用 Supabase 云数据库。
+- 🔹 **主流交易风格**研究
+- 🔹 **微型股量化交易策略**
+- 🔹 **IF 和 IH 期货对冲策略**
+- 🔹 **微型股震荡**研究（2024/01/15 - 2024/02/07）
 
-    * [convenient_online_notebook](https://github.com/Nolan180940/Notebook)，即刻可用，支持导出为任何格式。
+> ⚠️ *由于合规问题，未在 GitHub 上开源*
 
-    * [cloud_drive](https://github.com/Nolan180940/my-cloud)，后端基于 GitHub。
+---
 
-  * 我从其他人的代码库中 fork 了一些代码：（在此致以最诚挚的谢意）
+## 💼 商业与金融经历
 
-    * [chatbot](https://github.com/Nolan180940/llm-examples)
+目前参与 **TAMID 集团（亚洲分部，上海纽约大学）**，专注于：
+- 📊 股票分析
+- 💰 股票估值
 
-> 基本上，对于那些技术专家来说，你们可能会觉得上面这些代码库很愚蠢，但对于一个大一新生来说，这确实是一个非常大胆的尝试。（请给我一些掌声和鼓励！）
+**职业目标：** `数据科学` + `人工智能` + `金融` 🚀
 
-- 我坚信，未来将属于那些拥有跨学科特质的行业。我致力于人工智能+领域。（但别说我是个只会搞氛围编程的怪人……）
+---
 
-- 我渴望在一个领域里投入无限的时间，因为你必须为此做好准备，并且不抱任何期望。但无论如何，只要你不后悔，那就是最好、最明智的选择。我相信人生是一场永无止境的旅程，而无限的探索将指引你前行。
+## 🚀 项目与创新
 
-📫 联系我的最佳方式是发送[电子邮件](mailto:Alexander_123Wiggins@proton.me)。
+### 🏆 个人项目
+
+| 项目 | 描述 |
+|---------|-------------|
+| 🏠 [**个人主页**](https://github.com/Nolan180940/Nolan180940.github.io) | 精心打造的作品集网站 |
+| 📄 [**Markdown 转 DOCX 转换器**](https://github.com/Nolan180940/md-to-word) | 基于 Streamlit 的文档转换工具 |
+| 📝 [**博客**](https://github.com/Nolan180940/blog) | 使用 Gemini AI + Supabase 的全栈开发项目 |
+| 📓 [**在线笔记本**](https://github.com/Nolan180940/Notebook) | 即开即用的笔记本，支持多格式导出 |
+| ☁️ [**云盘**](https://github.com/Nolan180940/my-cloud) | 基于 GitHub 的云存储解决方案 |
+
+### 🤝 Fork 项目
+
+- 🤖 [**聊天机器人**](https://github.com/Nolan180940/llm-examples) - 基于 LLM 的聊天机器人 *(感谢原创作者！)*
+
+### 🏅 成就
+
+- 🏆 **DIC 决赛入围者**（数字创新挑战赛，上海纽约大学）
+- 💾 从 akshare 下载完整 A 股数据，构建带数据清洗机制的综合数据库
+
+> 🌟 *作为一名大一新生，这些项目对专家来说可能很简单，但它们代表了大胆的尝试和真诚的学习！*
+
+---
+
+## 💭 理念
+
+> *"未来将属于拥有跨学科特质的行业。**AI+** 是我致力于的方向。"*
+
+> *"人生是一场由无限探索指引的无尽旅程。无悔地投入——那是最明智的选择。"*
+
+---
+
+## 📬 联系方式
+
+<p align="center">
+
+[![Email](https://img.shields.io/badge/邮箱-Alexander_123Wiggins@proton.me-blue?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Alexander_123Wiggins@proton.me)
+
+</p>
+
+---
+
+<div align="center">
+
+### 感谢访问！🌟
+
+*欢迎随时联系——让我们一起交流与合作！*
+
+</div>
