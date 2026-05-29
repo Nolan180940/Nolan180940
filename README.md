@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science student at New York University (Class of 2029)**, passionate about the intersection of **AI + Finance + Technology**.
+I'm a **Data Science student at New York University (Class of 2029)**, passionate about leveraging **data-driven insights** to solve complex problems in **finance, distributed systems, and AI applications**.
 
 ---
 
@@ -29,58 +29,80 @@ I'm a **Data Science student at New York University (Class of 2029)**, passionat
 
 ---
 
-## 📈 Quant Trading Research
+## 📊 Data Science Projects & Experience
 
-*Amateur Quant Trading Strategy Researcher & Analyst*  
-*(Purely out of curiosity — don't expect too much! 😄)*
+### 🔹 Financial Data Pipeline & Quantitative Analysis
+- **[A-Share Downloader](https://github.com/Nolan180940/a_share_downloader)** (Python)
+  - Built a comprehensive **A-stock historical data acquisition system** with automated data cleaning pipeline
+  - Implemented multi-source data integration: Yahoo Finance API for SSE/SZSE stocks + Tushare for Beijing Stock Exchange
+  - Features: Full historical download, incremental updates with batch processing, local backtesting framework
+  - Technical highlights: Pandas/Parquet for efficient data storage, multi-threading for parallel updates, data validation mechanisms
 
-- 🔹 **Mainstream Trading Styles** research
-- 🔹 **Quant Trading Strategy** focusing on Micro-cap stocks
-- 🔹 **Hedging Strategy** for IF and IH futures
-- 🔹 **Micro-cap Stock Earthquake** research (2024/01/15 - 2024/02/07)
+### 🔹 Distributed Systems & Backend Engineering
+- **[ICDS Final Project](https://github.com/Nolan180940/ICDS_PROJECT)** (Python)
+  - Designed and implemented an **Intelligent Distributed Chat System** using Socket programming and GUI development
+  - Architecture: Multi-client socket server with real-time bidirectional message delivery
+  - AI Integration: Ollama (phi3:mini) chatbot with context-aware responses and customizable personalities
+  - Bonus Features: TextBlob sentiment analysis, automated chat summarization, group chat @mentions, simulated AI image generation
+  - Technical stack: Python Tkinter, Multi-threading for non-blocking I/O, REST API integration
+
+### 🔹 Core Competencies
+- **Data Processing**: Pandas, NumPy, Parquet format optimization
+- **Data Acquisition**: API integration (Yahoo Finance, Tushare), web scraping
+- **System Design**: Distributed architecture, multi-threading, network programming
+- **Machine Learning & AI**: LLM integration, sentiment analysis, NLP
+- **Backend Development**: Socket programming, REST APIs, database management
+
+---
+
+## 💼 Finance & Business Applications
+
+### 📈 Quantitative Trading & Valuation Analysis
+
+**TAMID Group (Asia Chapter, NYU Shanghai)**
+- **DCF Analysis & Stock Valuation**: Conducted comprehensive Discounted Cash Flow analysis on **NYSE:DT (Dynatrace Inc.)**
+- **Sensitivity Analysis**: Built multi-factor sensitivity models for equity valuation
+- **Stock Pitch**: Participated in internal stock pitch competition with data-driven investment thesis
+- **Fundamental Analysis**: Equity research, financial statement analysis, valuation methodology
+
+### 🔍 Research Focus
+- **Mainstream Trading Styles** research
+- **Quant Trading Strategy** focusing on Micro-cap stocks
+- **Hedging Strategy** for IF and IH futures
+- **Micro-cap Stock Earthquake** research (2024/01/15 - 2024/02/07)
 
 > ⚠️ *Not open-sourced on GitHub due to compliance issues*
 
----
-
-## 💼 Business & Finance Experience
-
-Currently involved in **TAMID Group (Asia Chapter, NYU Shanghai)**, focusing on:
-- 📊 Equity Analysis
-- 💰 Stock Valuation
-
-**Career Aspiration:** `Data Science` + `AI` + `Finance` 🚀
+### 🎯 Career Aspiration
+**Data Science + AI + Finance** 🚀 — Combining quantitative methods with real-world market insights
 
 ---
 
-## 🚀 Projects & Innovations
+## 🚀 Additional Projects & Innovations
 
 ### 🏆 Personal Projects
 
 | Project | Description |
 |---------|-------------|
-| 🏠 [**Personal Homepage**](https://github.com/Nolan180940/Nolan180940.github.io) | Delicately crafted portfolio website |
-| 📄 [**Markdown to DOCX Converter**](https://github.com/Nolan180940/md-to-word) | Streamlit-powered document converter |
-| 📝 [**Blog**](https://github.com/Nolan180940/blog) | Full-stack development with Gemini AI + Supabase |
+| 🏠 [**Personal Homepage**](https://github.com/Nolan180940/Nolan180940.github.io) | Modern portfolio website with fluid animations |
+| 📄 [**Markdown to DOCX Converter**](https://github.com/Nolan180940/md-to-word) | Streamlit-powered document converter with math formula support |
+| 📝 [**Blog**](https://github.com/Nolan180940/blog) | Full-stack development with Gemini AI + Supabase backend |
 | 📓 [**Online Notebook**](https://github.com/Nolan180940/Notebook) | Ready-to-use notebook with multi-format export |
 | ☁️ [**Cloud Drive**](https://github.com/Nolan180940/my-cloud) | GitHub-backed cloud storage solution |
-
-### 🤝 Forked Projects
-
-- 🤖 [**Chatbot**](https://github.com/Nolan180940/llm-examples) - LLM-powered chatbot *(Gratitude to original creators!)*
 
 ### 🏅 Achievements
 
 - 🏆 **DIC Finalist** (Digital Innovation Challenge, NYU Shanghai)
-- 💾 Built comprehensive A-stock database with data-cleaning mechanism from akshare
+- 💾 Built production-grade A-stock database with automated data cleaning and validation
+- 🤖 Implemented distributed AI-powered chat system with sentiment analysis
 
-> 🌟 *As a freshman, these might seem simple to experts, but they represent bold attempts and genuine learning!*
+> 🌟 *As a freshman, these projects represent bold technical attempts and genuine learning in multiple domains!*
 
 ---
 
 ## 💭 Philosophy
 
-> *"The future belongs to industries with multidisciplinary traits. **AI+** is what I'm committed to."*
+> *"The future belongs to industries with multidisciplinary traits. **Data Science + Finance + Technology** is the intersection I'm committed to."*
 
 > *"Life is an endless journey guided by infinite exploration. Devote yourself without regret — that's the wisest choice."*
 
