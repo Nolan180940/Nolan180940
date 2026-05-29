@@ -57,7 +57,7 @@ I'm a **Data Science student at New York University (Class of 2029)**, passionat
 
 ## 💼 Finance & Business Applications
 
-### 📈 Quantitative Trading & Valuation Analysis
+### 📈 Fundamental & Valuation Analysis
 
 **TAMID Group (Asia Chapter, NYU Shanghai)**
 - **DCF Analysis & Stock Valuation**: Conducted comprehensive Discounted Cash Flow analysis on **NYSE:DT (Dynatrace Inc.)**
@@ -65,7 +65,7 @@ I'm a **Data Science student at New York University (Class of 2029)**, passionat
 - **Stock Pitch**: Participated in internal stock pitch competition with data-driven investment thesis
 - **Fundamental Analysis**: Equity research, financial statement analysis, valuation methodology
 
-### 🔍 Research Focus
+### 🔍 Quant Research Focus
 - **Mainstream Trading Styles** research
 - **Quant Trading Strategy** focusing on Micro-cap stocks
 - **Hedging Strategy** for IF and IH futures
@@ -89,12 +89,9 @@ I'm a **Data Science student at New York University (Class of 2029)**, passionat
 | 📝 [**Blog**](https://github.com/Nolan180940/blog) | Full-stack development with Gemini AI + Supabase backend |
 | 📓 [**Online Notebook**](https://github.com/Nolan180940/Notebook) | Ready-to-use notebook with multi-format export |
 | ☁️ [**Cloud Drive**](https://github.com/Nolan180940/my-cloud) | GitHub-backed cloud storage solution |
+| [ICDS Final Project](https://github.com/Nolan180940/ICDS_PROJECT) | Intelligent Distribution Chat System with AI Integration |
+| [A-Share Downloader](https://github.com/Nolan180940/a_share_downloader) | A-share downloader and local-based backtest engine establishment with powerful quant-trading strategies |
 
-### 🏅 Achievements
-
-- 🏆 **DIC Finalist** (Digital Innovation Challenge, NYU Shanghai)
-- 💾 Built production-grade A-stock database with automated data cleaning and validation
-- 🤖 Implemented distributed AI-powered chat system with sentiment analysis
 
 > 🌟 *As a freshman, these projects represent bold technical attempts and genuine learning in multiple domains!*
 
