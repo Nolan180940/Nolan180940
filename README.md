@@ -7,7 +7,7 @@
 
 ---
 
-### ![NYU Logo](https://www.clipartmax.com/png/middle/189-1895727_new-york-university-logo-nyu-tandon-school-of-engineering.png) NYU '29 | Data Science Major
+### ![NYU Logo](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png) NYU '29 | Data Science Major
 
 </div>
 
