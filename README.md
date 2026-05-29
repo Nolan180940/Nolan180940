@@ -7,7 +7,7 @@
 
 ---
 
-### [NYU Logo](https://github.com/Nolan180940/Nolan180940/blob/main/NYU-Logo-Vector.svg-.png) NYU '29 | Data Science Major
+### ![NYU Logo](https://github.com/Nolan180940/Nolan180940/blob/main/NYU-Logo-Vector.svg-.png) NYU '29 | Data Science Major
 
 </div>
 
