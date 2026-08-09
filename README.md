@@ -31,15 +31,11 @@
 
 [![公开仓库-47](https://img.shields.io/badge/公开仓库-47-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=repositories) [![获Star-21](https://img.shields.io/badge/获Star-21-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=repositories) [![Star过的仓库-292](https://img.shields.io/badge/Star过的仓库-292-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=stars) [![Followers-10](https://img.shields.io/badge/Followers-10-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=followers)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nolan180940&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan180940&layout=compact&theme=tokyonight)
+[![GitHub 成就 Starstruck](https://img.shields.io/badge/Starstruck-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 Pull Shark](https://img.shields.io/badge/Pull%20Shark-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 YOLO](https://img.shields.io/badge/YOLO-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nolan180940&theme=tokyonight)
 
 ![贡献热力图](https://ghchart.rshah.org/Nolan180940)
-
-![GitHub 成就](https://github-profile-trophy.vercel.app/?username=Nolan180940&theme=onedark&row=2&column=4&no-frame=true)
 
 </div>
 
