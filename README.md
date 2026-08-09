@@ -3,6 +3,8 @@
 
 # 你好，我是 Nolan Xu 👋
 
+[🇬🇧 English](./README.md) &nbsp;|&nbsp; [🇨🇳 中文](./README.zh.md)
+
 ---
 
 ### [![NYU Logo](https://github.com/Nolan180940/Nolan180940/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png) NYU '29 | 数据科学 · AI 方向
@@ -162,11 +164,24 @@
 
 ## 🛠️ 技术栈
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,postgres,sqlite,latex,md&theme=dark&perline=10" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-45B39D?style=for-the-badge&logo=lightgbm&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,nodejs,react,vite,fastapi,git,github,linux,pytorch,sklearn&theme=dark&perline=11" />
+  </a>
+</p>
 
-</div>
+| 领域 | 技能 |
+|:---|:---|
+| **语言** | Python · SQL · JavaScript/TypeScript · C++ · HTML |
+| **数据/ML** | Pandas · NumPy · Polars · LightGBM · CatBoost · XGBoost · SHAP |
+| **量化金融** | 多因子模型 · 因子挖掘 · 中性化 (CNE6) · 回测框架 · IC/IR 分析 |
+| **AI/前端** | LLM 集成 · RAG · Streamlit · Next.js · Tailwind |
 
 ---
 
