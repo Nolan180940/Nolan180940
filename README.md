@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-nolan.vercel.app/api?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&show_icons=true" alt="GitHub Stats" />
+    <img align="center" src="https://nanmicoder-readme-cards.vercel.app/api?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&show_icons=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-nolan.vercel.app/api/top-langs?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://nanmicoder-readme-cards.vercel.app/api/top-langs?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
