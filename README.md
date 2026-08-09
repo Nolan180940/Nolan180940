@@ -3,12 +3,11 @@
 
 # 你好，我是 Nolan Xu 👋
 
+[🇬🇧 English](./README.md) &nbsp;|&nbsp; [🇨🇳 中文](./README.zh.md)
+
 ---
 
-[![NYU Logo](https://github.com/Nolan180940/Nolan180940/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)
-[![NYU Shanghai Logo](https://github.com/Nolan180940/Nolan180940/raw/main/NYUSHANGHAILOGO.png)](https://github.com/Nolan180940/Nolan180940/blob/main/NYUSHANGHAILOGO.png)
-
-### NYU '29 | 数据科学 · AI 方向
+### [![NYU Logo](https://github.com/Nolan180940/Nolan180940/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png) NYU '29 | 数据科学 · AI 方向
 
 **数据科学 × AI × 量化金融** — 用数据与算法连接技术与真实世界
 
@@ -28,7 +27,7 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 Stats & Activity
 
 <div align="center">
 
@@ -36,15 +35,28 @@
 
 [![GitHub 成就 Starstruck](https://img.shields.io/badge/Starstruck-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 Pull Shark](https://img.shields.io/badge/Pull%20Shark-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 YOLO](https://img.shields.io/badge/YOLO-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nolan180940&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nolan180940&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nolan180940&theme=tokyonight)
-
-![贡献热力图](https://ghchart.rshah.org/Nolan180940)
-
 </div>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-nolan.vercel.app/api?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-nolan.vercel.app/api/top-langs?username=Nolan180940&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Nolan180940&theme=github-dark-blue&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Nolan180940&bg_color=0D1117&color=F8D866&line=58A6FF&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
