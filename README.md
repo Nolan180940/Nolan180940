@@ -11,6 +11,8 @@
 
 **数据科学 × AI × 量化金融** — 用数据与算法连接技术与真实世界
 
+[![个人主页](https://img.shields.io/badge/个人主页-nolan180940.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nolan180940.github.io/)
+
 </div>
 
 ---
@@ -32,6 +34,10 @@
 [![公开仓库-47](https://img.shields.io/badge/公开仓库-47-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=repositories) [![获Star-21](https://img.shields.io/badge/获Star-21-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=repositories) [![Star过的仓库-292](https://img.shields.io/badge/Star过的仓库-292-ffd700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=stars) [![Followers-10](https://img.shields.io/badge/Followers-10-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=followers)
 
 [![GitHub 成就 Starstruck](https://img.shields.io/badge/Starstruck-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 Pull Shark](https://img.shields.io/badge/Pull%20Shark-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 YOLO](https://img.shields.io/badge/YOLO-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nolan180940&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nolan180940&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nolan180940&theme=tokyonight)
 
