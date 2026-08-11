@@ -3,11 +3,9 @@
 
 # 你好，我是 Nolan Xu 👋
 
-[🇬🇧 English](./README.md) &nbsp;|&nbsp; [🇨🇳 中文](./README.zh.md)
-
 ---
 
-### [![NYU Logo](https://github.com/Nolan180940/Nolan180940/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png) NYU '29 | 数据科学 · AI 方向
+### [![NYU Logo](https://github.com/Nolan180940/Nolan180940/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png)](https://github.com/Nolan180940/Nolan180940/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260529183826_1583_2.png) [![NYU Shanghai Logo](https://github.com/Nolan180940/Nolan180940/raw/main/NYUSHANGHAILOGO.png)](https://github.com/Nolan180940/Nolan180940/blob/main/NYUSHANGHAILOGO.png)NYU '29 | 数据科学 · AI 方向
 
 **数据科学 × AI × 量化金融** — 用数据与算法连接技术与真实世界
 
