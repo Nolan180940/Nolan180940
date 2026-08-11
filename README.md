@@ -60,7 +60,7 @@
 
 ## 🔬 量化研究 · 当前重点项目
 
-> 🚀 上海某私募基金 **长期兼职量化研究员**（实习转正，Return Offer），主导 **因子挖掘与机器学习因子合成**，核心成果开源在 [**Factor-Mining**](https://github.com/Nolan180940/Factor-Mining)。
+> 🚀 上海某私募基金 **长期兼职量化研究员**（实习转正，Return Offer），主导 **因子挖掘与机器学习因子合成**，核心成果闭源在 [**Factor-Mining当然是闭源**](https://github.com/Nolan180940/Factor-Mining)。
 
 | 模块 | 核心内容 |
 |:---|:---|
