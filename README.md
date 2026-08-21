@@ -33,6 +33,8 @@
 
 [![GitHub 成就 Starstruck](https://img.shields.io/badge/Starstruck-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 Pull Shark](https://img.shields.io/badge/Pull%20Shark-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements) [![GitHub 成就 YOLO](https://img.shields.io/badge/YOLO-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940?tab=achievements)
 
+[![Profile views](https://komarev.com/ghpvc/?username=Nolan180940&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Nolan180940)
+
 </div>
 
 <p align="center">
