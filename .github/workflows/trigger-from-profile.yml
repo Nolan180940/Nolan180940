@@ -5,6 +5,7 @@ on:
   push:
     branches: [main]
     paths: ['README.zh.md']
+  workflow_dispatch:
 
 jobs:
   trigger:
