@@ -9,7 +9,7 @@
 
 ### Data Science · AI · Quantitative Finance
 
-**数据科学 × AI × 量化金融** — 用数据与算法连接技术与真实世界
+**Data Science × AI × Quantitative Finance** — Bridging algorithms with real-world problems
 
 [![个人主页](https://img.shields.io/badge/个人主页-nolan180940.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nolan180940.github.io/)
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-- 🧭 AI 应用开发 · 量化金融研究 · 全栈工具链 · 开源探索
+- 🧭 AI Application Development · Quantitative Research · Full-stack Toolchain · Open Source
 
 ---
 
@@ -58,51 +58,51 @@
 
 ---
 
-## 🎯 经历
+## 🎯 Experience
 
-**TAMID Group · 投资基金成员**
+**TAMID Group · Investment Fund Member**
 
-- 股权估值课程（DCF / Comps）+ 内部股票推介赛
-
----
-
-## 📌 主页精选项目
-
-- 🛠️ [**md-to-word**](https://github.com/Nolan180940/md-to-word) — Markdown 转 Word，支持 LaTeX 公式 & AI 语法修复
-- 🏠 [**Nolan180940.github.io**](https://github.com/Nolan180940/Nolan180940.github.io) — 个人作品集主页
-- 🏎️ [**smg-f1-unlock**](https://github.com/Nolan180940/smg-f1-unlock--F1-) ⭐42 — F1 直播解锁（Nuxt.js 逆向）
-- 💬 [**chatbot-demo**](https://github.com/Nolan180940/chatbot-demo) — BYOK 聊天控制台（Next.js 14 + Tailwind），已部署 Vercel
-- 🎓 [**tutor-course-material**](https://github.com/Nolan180940/tutor-course-material) — 高中生编程教学大纲（Python / AI & LLM，Jupyter 讲义）
-- 🖥️ [**windows-simulator**](https://github.com/Nolan180940/windows-simulator) — 纯前端 Windows 11 桌面
+- Equity valuation (DCF / Comps) + internal stock pitch competition
 
 ---
 
-## 🔥 最近更新 · Top 15 仓库
+## 📌 Pinned Projects
 
-> 📌 = Pinned；按最近更新时间排序
+- 🛠️ [**md-to-word**](https://github.com/Nolan180940/md-to-word) — Markdown to Word with LaTeX math & AI grammar fix, free & no login
+- 🏠 [**Nolan180940.github.io**](https://github.com/Nolan180940/Nolan180940.github.io) — Personal portfolio website
+- 🏎️ [**smg-f1-unlock**](https://github.com/Nolan180940/smg-f1-unlock--F1-) ⭐42 — F1 stream unlock (Nuxt.js reverse engineering)
+- 💬 [**chatbot-demo**](https://github.com/Nolan180940/chatbot-demo) — BYOK chat console (Next.js 14 + Tailwind), deployed on Vercel
+- 🎓 [**tutor-course-material**](https://github.com/Nolan180940/tutor-course-material) — High school programming curriculum (Python / AI & LLM, Jupyter)
+- 🖥️ [**windows-simulator**](https://github.com/Nolan180940/windows-simulator) — Windows 11 desktop in the browser
 
-| 仓库 | 语言 | 更新 | 简介 |
+---
+
+## 🔥 Recent Updates · Top 15 Repos
+
+> 📌 = Pinned; sorted by recent activity
+
+| Repo | Lang | Updated | Description |
 |:---|:---|:---|:---|
-| 📌 [tutor-course-material](https://github.com/Nolan180940/tutor-course-material) | Jupyter | 2026.08 | 编程教学讲义（含 AI / 大模型模块） |
-| 📌 [chatbot-demo](https://github.com/Nolan180940/chatbot-demo) | TS | 2026.08 | BYOK 聊天控制台（Next.js + Tailwind） |
-| [dayjourney](https://github.com/Nolan180940/dayjourney) | 🐍 | 2026.08 | 电脑行为记录 → 本地知识库 → AI 人格助手 |
-| 📌 [windows-simulator](https://github.com/Nolan180940/windows-simulator) | JS | 2026.08 | 纯前端 Windows 11 桌面模拟 |
-| 📌 [smg-f1-unlock](https://github.com/Nolan180940/smg-f1-unlock--F1-) | JS | 2026.07 | F1 直播解锁脚本 ⭐42 |
-| [Wexport](https://github.com/Nolan180940/Wexport) | TS | 2026.07 | 微信聊天记录本地查看/分析 |
-| [my-cloud](https://github.com/Nolan180940/my-cloud) | HTML | 2026.07 | 网页版云盘 |
-| [Claude-Code-Proxy-SiliconFlowCN](https://github.com/Nolan180940/Claude-Code-Proxy-SiliconFlowCN) | JS | 2026.07 | Claude Code → SiliconFlow 轻量代理 |
-| [Intelligent-Distributed-Chat-System](https://github.com/Nolan180940/Intelligent-Distributed-Chat-System) | 🐍 | 2026.07 | Socket + Ollama 分布式聊天 |
-| 📌 [md-to-word](https://github.com/Nolan180940/md-to-word) | 🐍 | 2026.06 | Markdown 转 Word（LaTeX 公式） |
-| [SiliconFlow-NextChat](https://github.com/Nolan180940/SiliconFlow-NextChat) | TS | 2026.06 | NextChat + SiliconFlow 接入 |
-| [a_share_downloader](https://github.com/Nolan180940/a_share_downloader) | 🐍 | 2026.06 | A 股数据下载 + 本地回测框架 |
-| [Agent](https://github.com/Nolan180940/Agent) | 🐍 | 2026.06 | AI Agent 探索实验 |
-| [Jake's-Resume-Generator](https://github.com/Nolan180940/Jake-s-Resume-Generator) | 🐍 | 2026.06 | Streamlit → LaTeX → PDF 简历生成 |
+| 📌 [tutor-course-material](https://github.com/Nolan180940/tutor-course-material) | Jupyter | 2026.08 | Programming curriculum (AI / LLM modules) |
+| 📌 [chatbot-demo](https://github.com/Nolan180940/chatbot-demo) | TS | 2026.08 | BYOK chat console (Next.js + Tailwind) |
+| [dayjourney](https://github.com/Nolan180940/dayjourney) | 🐍 | 2026.08 | PC logger → local knowledge base → AI persona (Electron + Python) |
+| 📌 [windows-simulator](https://github.com/Nolan180940/windows-simulator) | JS | 2026.08 | Windows 11 desktop simulator |
+| 📌 [smg-f1-unlock](https://github.com/Nolan180940/smg-f1-unlock--F1-) | JS | 2026.07 | F1 stream unlock ⭐42 |
+| [Wexport](https://github.com/Nolan180940/Wexport) | TS | 2026.07 | WeChat chat history local viewer/analyzer |
+| [my-cloud](https://github.com/Nolan180940/my-cloud) | HTML | 2026.07 | Browser-based cloud drive |
+| [Claude-Code-Proxy-SiliconFlowCN](https://github.com/Nolan180940/Claude-Code-Proxy-SiliconFlowCN) | JS | 2026.07 | Claude Code → SiliconFlow lightweight proxy |
+| [Intelligent-Distributed-Chat-System](https://github.com/Nolan180940/Intelligent-Distributed-Chat-System) | 🐍 | 2026.07 | Socket + Ollama distributed chat |
+| 📌 [md-to-word](https://github.com/Nolan180940/md-to-word) | 🐍 | 2026.06 | Markdown to Word (LaTeX math) |
+| [SiliconFlow-NextChat](https://github.com/Nolan180940/SiliconFlow-NextChat) | TS | 2026.06 | NextChat + SiliconFlow integration |
+| [a_share_downloader](https://github.com/Nolan180940/a_share_downloader) | 🐍 | 2026.06 | A-share data downloader + local backtest |
+| [Agent](https://github.com/Nolan180940/Agent) | 🐍 | 2026.06 | AI Agent experiments |
+| [Jake's-Resume-Generator](https://github.com/Nolan180940/Jake-s-Resume-Generator) | 🐍 | 2026.06 | Streamlit → LaTeX → PDF resume |
 
-全部仓库：[**github.com/Nolan180940?tab=repositories**](https://github.com/Nolan180940?tab=repositories)
+Browse all repos: [**github.com/Nolan180940?tab=repositories**](https://github.com/Nolan180940?tab=repositories)
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -116,22 +116,22 @@
   </a>
 </p>
 
-| 领域 | 技能 |
+| Domain | Skills |
 |:---|:---|
-| **语言** | Python · SQL · JavaScript/TypeScript · C++ · HTML |
-| **数据/ML** | Pandas · NumPy · Polars · LightGBM · CatBoost · XGBoost · SHAP |
-| **AI/前端** | LLM 集成 · RAG · Streamlit · Next.js · Tailwind |
+| **Languages** | Python · SQL · JavaScript/TypeScript · C++ · HTML |
+| **Data/ML** | Pandas · NumPy · Polars · LightGBM · CatBoost · XGBoost · SHAP |
+| **AI/Frontend** | LLM Integration · RAG · Streamlit · Next.js · Tailwind |
 
 ---
 
-## 💭 理念
+## 💭 Philosophy
 
-> *"未来属于具有跨学科特质的行业 —— **数据科学 + AI + 金融** 正是我坚持深耕的交汇点；让代码解决真实问题，让开源连接世界。"*
+> *"The future belongs to interdisciplinary fields — **Data Science + AI + Finance** is the intersection I'm committed to; let code solve real problems, let open source connect the world."*
 
 ---
 
-## 📬 联系我
+## 📬 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nolan180940-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nolan180940) &nbsp; [![个人主页](https://img.shields.io/badge/个人主页-nolan180940.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nolan180940.github.io/) &nbsp; [![Email](https://img.shields.io/badge/Email-Alexander_123Wiggins%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Alexander_123Wiggins@proton.me)
 
-> 对 AI / 开源 / 量化感兴趣？欢迎交流！🌟
+> Open to collaboration in AI, open source, and quantitative research 🌟
