@@ -70,14 +70,14 @@
 
 - 🛠️ [**md-to-word**](https://github.com/Nolan180940/md-to-word) — Markdown to Word with LaTeX math & AI grammar fix, free & no login
 - 🏠 [**Nolan180940.github.io**](https://github.com/Nolan180940/Nolan180940.github.io) — Personal portfolio website
-- 🏎️ [**smg-f1-unlock**](https://github.com/Nolan180940/smg-f1-unlock--F1-) ⭐42 — F1 stream unlock (Nuxt.js reverse engineering)
+- 🔬 Reverse Engineering Research — Nuxt.js interception analysis / anti-scraping & auth mechanisms / network protocol analysis
 - 💬 [**chatbot-demo**](https://github.com/Nolan180940/chatbot-demo) — BYOK chat console (Next.js 14 + Tailwind), deployed on Vercel
 - 🎓 [**tutor-course-material**](https://github.com/Nolan180940/tutor-course-material) — High school programming curriculum (Python / AI & LLM, Jupyter)
 - 🖥️ [**windows-simulator**](https://github.com/Nolan180940/windows-simulator) — Windows 11 desktop in the browser
 
 ---
 
-## 🔥 Recent Updates · Top 15 Repos
+## 🔥 Recent Updates · Top 14 Repos
 
 > 📌 = Pinned; sorted by recent activity
 
@@ -87,7 +87,6 @@
 | 📌 [chatbot-demo](https://github.com/Nolan180940/chatbot-demo) | TS | 2026.08 | BYOK chat console (Next.js + Tailwind) |
 | [dayjourney](https://github.com/Nolan180940/dayjourney) | 🐍 | 2026.08 | PC logger → local knowledge base → AI persona (Electron + Python) |
 | 📌 [windows-simulator](https://github.com/Nolan180940/windows-simulator) | JS | 2026.08 | Windows 11 desktop simulator |
-| 📌 [smg-f1-unlock](https://github.com/Nolan180940/smg-f1-unlock--F1-) | JS | 2026.07 | F1 stream unlock ⭐42 |
 | [Wexport](https://github.com/Nolan180940/Wexport) | TS | 2026.07 | WeChat chat history local viewer/analyzer |
 | [my-cloud](https://github.com/Nolan180940/my-cloud) | HTML | 2026.07 | Browser-based cloud drive |
 | [Claude-Code-Proxy-SiliconFlowCN](https://github.com/Nolan180940/Claude-Code-Proxy-SiliconFlowCN) | JS | 2026.07 | Claude Code → SiliconFlow lightweight proxy |

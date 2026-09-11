@@ -70,14 +70,14 @@
 
 - 🛠️ [**md-to-word**](https://github.com/Nolan180940/md-to-word) — Markdown 转 Word，支持 LaTeX 公式 & AI 语法修复
 - 🏠 [**Nolan180940.github.io**](https://github.com/Nolan180940/Nolan180940.github.io) — 个人作品集主页
-- 🏎️ [**smg-f1-unlock**](https://github.com/Nolan180940/smg-f1-unlock--F1-) ⭐42 — F1 直播解锁（Nuxt.js 逆向）
+- 🔬 逆向工程技术研究 — Nuxt.js 前端拦截机制分析 / 反爬与鉴权机制研究 / 网络协议分析
 - 💬 [**chatbot-demo**](https://github.com/Nolan180940/chatbot-demo) — BYOK 聊天控制台（Next.js 14 + Tailwind），已部署 Vercel
 - 🎓 [**tutor-course-material**](https://github.com/Nolan180940/tutor-course-material) — 高中生编程教学大纲（Python / AI & LLM，Jupyter 讲义）
 - 🖥️ [**windows-simulator**](https://github.com/Nolan180940/windows-simulator) — 纯前端 Windows 11 桌面
 
 ---
 
-## 🔥 最近更新 · Top 15 仓库
+## 🔥 最近更新 · Top 14 仓库
 
 > 📌 = Pinned；按最近更新时间排序
 
@@ -87,7 +87,6 @@
 | 📌 [chatbot-demo](https://github.com/Nolan180940/chatbot-demo) | TS | 2026.08 | BYOK 聊天控制台（Next.js + Tailwind） |
 | [dayjourney](https://github.com/Nolan180940/dayjourney) | 🐍 | 2026.08 | 电脑行为记录 → 本地知识库 → AI 人格助手 |
 | 📌 [windows-simulator](https://github.com/Nolan180940/windows-simulator) | JS | 2026.08 | 纯前端 Windows 11 桌面模拟 |
-| 📌 [smg-f1-unlock](https://github.com/Nolan180940/smg-f1-unlock--F1-) | JS | 2026.07 | F1 直播解锁脚本 ⭐42 |
 | [Wexport](https://github.com/Nolan180940/Wexport) | TS | 2026.07 | 微信聊天记录本地查看/分析 |
 | [my-cloud](https://github.com/Nolan180940/my-cloud) | HTML | 2026.07 | 网页版云盘 |
 | [Claude-Code-Proxy-SiliconFlowCN](https://github.com/Nolan180940/Claude-Code-Proxy-SiliconFlowCN) | JS | 2026.07 | Claude Code → SiliconFlow 轻量代理 |
